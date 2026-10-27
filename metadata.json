@@ -1,0 +1,8 @@
+{
+  "name": "Micronik Live Website",
+  "description": "Premium agricultural fertilizers, micronutrients, and grape farming solutions in Pimpalgaon Baswant, Nashik, Maharashtra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
